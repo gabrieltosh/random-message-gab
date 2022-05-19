@@ -1,0 +1,16 @@
+{
+  "name": "random-messages-gab",
+  "version": "1.0.0",
+  "description": "random of messages etc etc",
+  "main": "src/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Gabriel Pinto <gpinto.personal@gmail.com>",
+  "license": "MIT",
+  "keywords": ["javascript", "node", "npm"],
+  "bin":{
+    "random-msg":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
