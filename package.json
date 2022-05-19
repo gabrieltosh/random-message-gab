@@ -8,9 +8,21 @@
   },
   "author": "Gabriel Pinto <gpinto.personal@gmail.com>",
   "license": "MIT",
-  "keywords": ["javascript", "node", "npm"],
-  "bin":{
-    "random-msg":"./bin/global.js"
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "bin": {
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieltosh/random-message-gab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gabrieltosh/random-message-gab/issues"
+  },
+  "homepage": "https://github.com/gabrieltosh/random-message-gab#readme"
 }
